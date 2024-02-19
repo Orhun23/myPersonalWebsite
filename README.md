@@ -16,3 +16,5 @@ all of that will be done with javascript.
 I have heard stuff like react and jquery which i am not sure or what it means. 
 
 i will do a bit more research and after that i will just try to build a simple website. 
+
+holy fuck ik moet hier echt aan gaan beginnen gap 
