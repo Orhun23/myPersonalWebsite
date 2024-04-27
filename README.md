@@ -18,3 +18,11 @@ I have heard stuff like react and jquery which i am not sure or what it means.
 i will do a bit more research and after that i will just try to build a simple website. 
 
 holy fuck ik moet hier echt aan gaan beginnen gap 
+
+
+so  a bit later then expected butttt i think i have found what developers mean with 'i hate ui designers'.
+because whatever they designed is in a thing that they like to use soooo really freakishly hard to make it work
+hmmmm hard stuff. i dont really know where to go from here and how to change stuff to make it work better. 
+maybe just an easier html template? 
+tbh i dont need much to make it work just your average ez site will do too i think but yes first session went like this.
+28/04/2024 //00:18 
